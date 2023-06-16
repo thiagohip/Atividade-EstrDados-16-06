@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1686912649 source:/home/alunos/Bandas/src/Banda.cpp
+	"Banda.h"
+
+1686912469 /home/alunos/Bandas/include/Banda.h
+	<iostream>
+
+1686912119 source:/home/alunos/Bandas/main.cpp
+	<iostream>
+	"Banda.h"
+
